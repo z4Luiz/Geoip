@@ -1,2 +1,2 @@
 # Geoip
-Obtenha a localização (Localização não precisa) do IP que você queira usar.
+Instale os requisitos com gem install IPinfo. Pra iniciar o arquivo digite ./geoip.rb.
